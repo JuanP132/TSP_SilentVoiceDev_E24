@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{23E2846B-52D9-4607-A571-9F8735DFB107}</ProjectGuid>
+    <ProjectGuid>{36022037-B650-485E-8903-08470F2470DA}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{6968b3a4-1835-46a3-ac5c-1ae33b475983}</TemplateGuid>
     <OutputType>Library</OutputType>
@@ -89,7 +89,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Deflamingo\Deflamingo.csproj">
-      <Project>{B3A2C258-72AC-4C85-B629-978B06C2C3D6}</Project>
+      <Project>{35A48A89-3D9E-4F41-8A56-C5E938B02763}</Project>
       <Name>Deflamingo</Name>
     </ProjectReference>
   </ItemGroup>

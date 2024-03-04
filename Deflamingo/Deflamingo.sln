@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deflamingo.Android", "Deflamingo\Deflamingo.Android\Deflamingo.Android.csproj", "{23E2846B-52D9-4607-A571-9F8735DFB107}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deflamingo.Android", "Deflamingo\Deflamingo.Android\Deflamingo.Android.csproj", "{36022037-B650-485E-8903-08470F2470DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deflamingo", "Deflamingo\Deflamingo\Deflamingo.csproj", "{19C17654-5B4E-4C7C-AEFB-BC5AA90ACD7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deflamingo", "Deflamingo\Deflamingo\Deflamingo.csproj", "{95628A59-DADE-4DB1-B8F3-42AC8530790C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,23 +13,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{23E2846B-52D9-4607-A571-9F8735DFB107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23E2846B-52D9-4607-A571-9F8735DFB107}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23E2846B-52D9-4607-A571-9F8735DFB107}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{23E2846B-52D9-4607-A571-9F8735DFB107}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23E2846B-52D9-4607-A571-9F8735DFB107}.Release|Any CPU.Build.0 = Release|Any CPU
-		{23E2846B-52D9-4607-A571-9F8735DFB107}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{19C17654-5B4E-4C7C-AEFB-BC5AA90ACD7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19C17654-5B4E-4C7C-AEFB-BC5AA90ACD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19C17654-5B4E-4C7C-AEFB-BC5AA90ACD7E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{19C17654-5B4E-4C7C-AEFB-BC5AA90ACD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19C17654-5B4E-4C7C-AEFB-BC5AA90ACD7E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{19C17654-5B4E-4C7C-AEFB-BC5AA90ACD7E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{36022037-B650-485E-8903-08470F2470DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36022037-B650-485E-8903-08470F2470DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36022037-B650-485E-8903-08470F2470DA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{36022037-B650-485E-8903-08470F2470DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36022037-B650-485E-8903-08470F2470DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36022037-B650-485E-8903-08470F2470DA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{95628A59-DADE-4DB1-B8F3-42AC8530790C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95628A59-DADE-4DB1-B8F3-42AC8530790C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95628A59-DADE-4DB1-B8F3-42AC8530790C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{95628A59-DADE-4DB1-B8F3-42AC8530790C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95628A59-DADE-4DB1-B8F3-42AC8530790C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95628A59-DADE-4DB1-B8F3-42AC8530790C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {61668C48-3B0D-4DB8-BF26-370041968935}
+		SolutionGuid = {7BF5C1F3-D4B4-4CB5-92B5-37F8D701D9A8}
 	EndGlobalSection
 EndGlobal

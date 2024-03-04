@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Universidad\\TSP\\ProyectoTSP\\TSP_SilentVoiceDev_E24\\Deflamingo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95628A59-DADE-4DB1-B8F3-42AC8530790C}|Deflamingo\\Deflamingo\\Deflamingo.csproj|d:\\universidad\\tsp\\proyectotsp\\tsp_silentvoicedev_e24\\deflamingo\\deflamingo\\deflamingo\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95628A59-DADE-4DB1-B8F3-42AC8530790C}|Deflamingo\\Deflamingo\\Deflamingo.csproj|solutionrelative:deflamingo\\deflamingo\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GettingStarted.txt",
+              "DocumentMoniker": "D:\\Universidad\\TSP\\ProyectoTSP\\TSP_SilentVoiceDev_E24\\Deflamingo\\Deflamingo\\Deflamingo\\GettingStarted.txt",
+              "RelativeDocumentMoniker": "Deflamingo\\Deflamingo\\GettingStarted.txt",
+              "ToolTip": "D:\\Universidad\\TSP\\ProyectoTSP\\TSP_SilentVoiceDev_E24\\Deflamingo\\Deflamingo\\Deflamingo\\GettingStarted.txt",
+              "RelativeToolTip": "Deflamingo\\Deflamingo\\GettingStarted.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-04T19:40:25.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
